@@ -1,0 +1,51 @@
+
+{
+   "empleados" : [
+       {
+           "id" : 1,
+           "nombre": "Erick",
+           "Puesto": "Programador web" 
+       },
+       {
+           "id" : 2,
+           "nombre": "pedro",
+           "Puesto": "experience" 
+       },
+       {
+           "id" : 3,
+           "nombre": "Andrea",
+           "Puesto": "MKT" 
+       },
+       {
+           "id" : 4,
+           "nombre": "Karen",
+           "Puesto": "Servidores" 
+       }
+   ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
